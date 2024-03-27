@@ -1,2 +1,2 @@
-let x:number = 211155555
+let x:number = 211155
 console.log(x)
