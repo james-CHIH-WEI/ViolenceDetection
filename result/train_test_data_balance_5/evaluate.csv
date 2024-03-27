@@ -1,0 +1,15 @@
+Data,Model,Action,All,True,False,Accuracy
+train_test_data_balance_5,Rule,violence,101,93,8,92.08%
+train_test_data_balance_5,Rule,normal,101,15,86,85.15%
+train_test_data_balance_5,LR,violence,101,100,1,99.01%
+train_test_data_balance_5,LR,normal,101,24,77,76.24%
+train_test_data_balance_5,RF,violence,101,97,4,96.04%
+train_test_data_balance_5,RF,normal,101,23,78,77.23%
+train_test_data_balance_5,NB,violence,101,101,0,100.00%
+train_test_data_balance_5,NB,normal,101,26,75,74.26%
+train_test_data_balance_5,NN,violence,101,99,2,98.02%
+train_test_data_balance_5,NN,normal,101,24,77,76.24%
+train_test_data_balance_5,KNN,violence,101,99,2,98.02%
+train_test_data_balance_5,KNN,normal,101,25,76,75.25%
+train_test_data_balance_5,DT,violence,101,97,4,96.04%
+train_test_data_balance_5,DT,normal,101,23,78,77.23%
